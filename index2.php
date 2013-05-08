@@ -59,7 +59,7 @@
 				<p class="codrops-demos">
 					<a href="index.php">home</a>
 					<a class="current-demo" href="index2.php">hotel</a>
-					<a href="index3.php">bars and restaurant</a>
+					<a href="index3.php">weddings</a>
 					<a href="index4.php">facebook competition</a>
 
 				</p>
