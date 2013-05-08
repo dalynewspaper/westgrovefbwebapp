@@ -80,36 +80,6 @@
 
        </div>
 
-<li id="page_About">
-    <div class="box1">
-        <div class="inner">
-            <a href="index2.php#" class="close" data-type="close"><span></span></a>
-            <h2>Bars and Restaurants</h2>
-                <div class="wrapper">
-                <p class="color1 pad_bot2"><strong>The Oak Bar</strong></p>
-                <figure class="left marg_right1"><img src="images/page2_img1.jpg" height="200px" width="350px" alt=""></figure>
-
-                <h3></h3>
-                <p>For a great night out and something a little more contemporary, The Oak Bar is a truly elegant space but with both warmth
-                   and character. Here we specialise in international beers, divine cocktails and great bar food and provide weekly entertainment
-                   to add to the already buzzing atmosphere. Oak Bar Carvery Lunch Kildare Opening Times Monday – Saturday 12.30pm – 2.30pm
-                   Sunday 12.30pm – 4.00pm Oak Bar Bar Food Kildare Opening Times Monday – Thursday 12.00pm – 9.30pm Friday - Saturday 12.00pm – 10.00pm
-                   Sunday 4.30pm – 9.30pm </p>
-                </div>
-                <p class="color1 pad_bot2"><strong>Assaggio - Ristorante Italiano </strong></p>
-                <figure class="left marg_right1"><img src="images/page2_img2.jpg" height="200px" width="350px" alt=""></figure>
-
-                <p> The Assaggio Restaurant provides the perfect dining solution throughout the day.
-                    Serving breakfast, lunch and dinner, its casual setting adapts perfectly to each. Through a mixture of
-                    walnut wood and natural limestone, a warm and relaxed atmosphere is created. The A La Carte menu caters
-                    for a variety of tastes from the old family favourites to the more adventurous with each dish having been
-                    designed by our Executive Chefs. Assaggio Restaurant Opening Times: 7 days per week: 17:00 - 21:30 </p>
-
-               <a href="#!/page_More" class="button1"><span></span><strong>Read More</strong></a>
-        </div>
-      </div>
-    </li>
-
     </body>
 
 
