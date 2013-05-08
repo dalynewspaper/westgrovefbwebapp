@@ -115,10 +115,10 @@
                 <h1> <span>Facebook Comepetition</span></h1>
                 <h2>Enter our competition to be in with a chance of winning</h2>
 				<p class="codrops-demos">
-					<a href="index.html">home</a>
-					<a href="index2.html"> hotel</a>
-					<a href="index3.html">bars and restaurants</a>
-					<a class="current-demo" href="index4.html">facebook competition</a>
+					<a href="index.php">home</a>
+					<a href="index2.php"> hotel</a>
+					<a href="index3.php">bars and restaurants</a>
+					<a class="current-demo" href="index4.php">facebook competition</a>
 				</p>
                 <div id="top_right">
                     <a href="https://twitter.com/westgrovehotel" class="twitter-follow-button" data-show-count="false">Follow @westgrovehotel </a>
