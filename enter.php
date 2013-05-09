@@ -14,7 +14,7 @@
   //Validate the input
 
   if ($answer != 'clane'){
-      header("Location: http://westgrove.azurewebsites.net/web/CSS3FullscreenSlideshow/index4.php?wrong=1");
+      header("Location: http://westgrovefbwebapp.azurewebsites.net/index4.php?wrong=1");
       exit();
   }
 
@@ -25,4 +25,4 @@
   //Connect to database
 
   //Insert Data to Database
-  INSERT into entries (name, gender, )
+  // ------ > INSERT into entries (name, gender, )

@@ -19,6 +19,8 @@
         <!--hosted jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 
+
+
     </head>
 
     <?php if ($_GET['wrong'] == "1"): ?>
@@ -101,17 +103,11 @@
 <!--present a graphical Login button that triggers the FB.login() function when clicked.-->
 <fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
                 
-        <!--ul class="cb-slideshow">
-            <li><span>Image 01</span></li>
-            <li><span>Image 02</span></li>
-            <li><span>Image 03</span></li>
-            <li><span>Image 04</span></li>
-            <li><span>Image 05</span></li>
-            <li><span>Image 06</span></li>
-        </ul-->
+
         <div class="container">
         
             <header>
+
                 <h1> <span>Facebook Comepetition</span></h1>
                 <h2>Enter our competition to be in with a chance of winning</h2>
 				<p class="codrops-demos">
@@ -131,11 +127,12 @@
             </header>
         </div>
 
-<h1>Hello and welcome to the Westgroves competition:</h1>
+<h1>Welcome To Our Facebook Competition:</h1>
 
-<p>To enter please tell us which town the Westgrove Hotel is located in:</p>
+<p>To be in with the chance of winning 2 nights Bed and Breakfast and an evening meal for 2 please tell us which town the Westgrove Hotel is located in:</p>
 
-<div id="competition-form" style="display:none">
+<div id="competition-form">
+    <!--style="display:none"-->
 
 <form method="post" action="enter.php">
 <input type="radio" name="town" value="naas">Naas<br>
@@ -143,7 +140,7 @@
 <input type="radio" name="town" value="clane">Clane<br>
 <input type="radio" name="town" value="sallins">Sallins
 
-<input type="submit">
+<br> <input type="submit">
 
 </form>
 
