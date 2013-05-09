@@ -43,12 +43,12 @@
        <div id="page">
         <div class="cb-slideshow">
         <ul class="cb-slideshow">
-            <li><span>Image 01</span></li>
-            <li><span>Image 02</span>></li>
-            <li><span>Image 03</span></li>
-            <li><span>Image 04</span></li>
-            <li><span>Image 05</span></li>
-            <li><span>Image 06</span></li>
+            <li><span>Image 01</span><div><h3>Bedrooms </h3></div></li>
+            <li><span>Image 02</span><div><h3>Hitting the Gym? </h3></div></li>
+            <li><span>Image 03</span><div><h3>Kidz-Club </h3></div></li>
+            <li><span>Image 04</span><div><h3>Bars and Restaurant </h3></div></li>
+            <li><span>Image 05</span><div><h3>Swimming pool</h3></div></li>
+            <li><span>Image 06</span><div><h3>Rooftop Terrace</h3></div></li>
         </ul>
         </div>    
         <div class="container">

@@ -28,8 +28,8 @@
         </ul>
         <div class="container">
             <header>
-                <h1> <span>Bars and Restaurant</span></h1>
-                <h2>Dine with us in Assaggio or grab a beer in the Oak Bar.</h2>
+                <h1> <span>Weddings</span></h1>
+                <h2>The reasons for love are as varied as life itself. Luckily you have found yours, Congratulations!</h2>
 				<p class="codrops-demos">
 					<a href="index.php">home</a>
 					<a href="index2.php">hotel</a>
