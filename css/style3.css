@@ -236,11 +236,10 @@
 
 }
 
-.socialfb-like  {
-    position: fixed;
-    top:0px;
-    right:40px;
-    margin: 10px;
-    z-index: 9999999px;
 
+/*Drop Shadow on text*/
+
+p{
+    text-shadow: 1px 1px 1px #000, 3px 3px 5px black;
+   
 }

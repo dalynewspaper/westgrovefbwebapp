@@ -52,7 +52,7 @@
     line-height: 100px;
 }
 .cb-slideshow li:nth-child(1) span {
-    background-image: url(../images/hotel/bedroom.jpg)
+    background-image: url(../images/hotel/bedroom.jpg);
 }
 .cb-slideshow li:nth-child(2) span {
     background-image: url(../images/hotel/gym.jpg);
@@ -227,7 +227,7 @@
 }
 
 
-
+/*Twitter button Positioning*/
 #top_right  {
     position: fixed;
     top:0px;
@@ -236,11 +236,8 @@
 
 }
 
-.socialfb-like  {
-    position: fixed;
-    top:0px;
-    right:40px;
-    margin: 10px;
-    z-index: 9999999px;
 
+p {
+    text-shadow: 1px 1px 1px #000, 3px 3px 5px black;
+    font-size: 20px;
 }

@@ -43,12 +43,67 @@
        <div id="page">
         <div class="cb-slideshow">
         <ul class="cb-slideshow">
-            <li><span>Image 01</span><div><h3>Bedrooms </h3></div></li>
-            <li><span>Image 02</span><div><h3>Hitting the Gym? </h3></div></li>
-            <li><span>Image 03</span><div><h3>Kidz-Club </h3></div></li>
-            <li><span>Image 04</span><div><h3>Bars and Restaurant </h3></div></li>
-            <li><span>Image 05</span><div><h3>Swimming pool</h3></div></li>
-            <li><span>Image 06</span><div><h3>Rooftop Terrace</h3></div></li>
+            <li>
+                <span>Image 01</span>
+                <div>
+
+                <h3>Bedrooms </h3>
+                
+                <p> The Westgroves accommodation was designed exclusively with the guest in mind, with our variety of room types catering for the wide range of needs of our customers
+                    Our 4 Star Kildare Hotel Provides 99 quiet and comfortable rooms in total, our 66 Deluxe rooms provide ample space, while our 18 Executive Apartments are spacious homes-from-homes and are ideally suited to family or groups of friends. Our 5 individually appointed Suites
+                    offer the most discerning traveller an array of choice in pampering and indulgence.
+                  
+                </p>
+
+                </div>
+            </li>
+
+            <li><span>Image 02</span>
+                <div><h3>Hitting the Gym? </h3>
+                <p> 3 and 6 MONTH MEMBERSHIP RATES NOW AVAILABLE<br>
+                    CALL US NOW 0N 045 989900! <br>
+                    The Westgrove Hotel Leisure Club and Spa Haven was recently awarded the prestigious ILAM White Flag Award 2012/1013. This award highlights the exceptional standards and commitment in the areas of hygiene, water quality, staff training and development and access to the club.
+                </p>
+
+                
+                </div>
+            </li>
+            <li><span>Image 03</span>
+                <div><h3>Kidz-Club </h3>
+
+                <p> Kidz Club is the best place for your children to enjoy the break away while giving you a little bit of piece and quite on your well deserved vacation. Your children will be supervised while they play with as many toys as they could dream of or while they watch a movie of their choice.
+
+                </p>
+
+            
+                </div>
+            </li>
+            <li><span>Image 04</span>
+                <div><h3>Bars and Restaurant </h3>
+         
+                <p> For a great night out and something a little more contemporary, The Oak Bar is a truly elegant space but with both warmth and character. Here we specialise in international beers, divine cocktails and great bar food and provide weekly entertainment to add to the already buzzing atmosphere.
+                    <br>The Assaggio Restaurant provides the perfect dining solution throughout the day. Serving breakfast, lunch and dinner, its casual setting adapts perfectly to each. Through a mixture of walnut wood and natural limestone, a warm and relaxed atmosphere is created. The A La Carte menu caters for a variety of tastes from the old family favourites to the more adventurous with each dish having been designed by our Executive Chef John and his creative Team.
+                  
+                </p>
+
+                
+                </div></li>
+
+            <li><span>Image 05</span>
+                <div><h3>Swimming pool</h3>
+                <p> The Westgroves accommodates a full sized swimming pool that allows you to get you morning exercise in or a swim in the evening after work. Come stay with us and get a complementary pass to use our facilities.
+                </p>
+
+
+                </div></li>
+            <li><span>Image 06</span><div>
+                    <h3>Rooftop Terrace</h3>
+
+                <p> On a sunny day there is no where else in the world I would wish to be than the Rooftop terrace garden at the Westgrove Hotel. Enjoy a drink whilst sitting back taking in the sun rays with a beautiful atmosphere.
+
+                </p>
+
+                </div></li>
         </ul>
         </div>    
         <div class="container">
