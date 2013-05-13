@@ -71,3 +71,31 @@
 
 
 ?>
+
+<!-- include your own success html here -->
+
+<head>
+    <title>Competition entered.</title>
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/style4.css" />
+</head>
+<body>
+
+   <div class="container">
+    <div class="success">
+         <h1> Thank you for entering our competition.</h1>
+       
+        <p class="codrops-demos">
+        	<a href="index.php">home</a>
+                <a href="index2.php">hotel</a>
+                <a href="index3.php">weddings</a>
+                <a href="contactform.php">contact us</a>
+                <a class="current-demo" href="index4.php">facebook competition</a>
+	</p>
+
+
+        <h2 class="glow">Best of luck!</h2>
+
+<?php
+}
+?>
