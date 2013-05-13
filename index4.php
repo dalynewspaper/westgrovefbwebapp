@@ -122,8 +122,6 @@
                  if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
                 </script>
 
-                    <div class="fb-like" data-href="https://www.facebook.com/WestgroveHotel" data-send="true" data-width="450" data-show-faces="false"></div>
-
                 </div>
             </header>
         </div>
