@@ -239,7 +239,8 @@
 
 /*Drop Shadow on text*/
 
-p{
-    text-shadow: 1px 1px 1px #000, 3px 3px 5px black;
-   
+.glow
+{font-size: 19px;
+color: #FFFFFF;
+text-shadow: 1px 1px 6px #555555;
 }

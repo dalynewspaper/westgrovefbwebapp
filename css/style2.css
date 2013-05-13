@@ -227,7 +227,7 @@
 }
 
 
-/*Twitter button Positioning*/
+
 #top_right  {
     position: fixed;
     top:0px;
@@ -237,7 +237,14 @@
 }
 
 
-p {
-    text-shadow: 1px 1px 1px #000, 3px 3px 5px black;
-    font-size: 20px;
+/*Drop Shadow on text*/
+.glow
+{font-size: 19px;
+color: #FFFFFF;
+text-shadow: 1px 1px 6px #555555;
 }
+
+/*p{
+    text-shadow: 1px 1px 1px #000, 3px 3px 5px black;
+
+}*/

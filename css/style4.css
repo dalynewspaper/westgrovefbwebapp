@@ -13,14 +13,29 @@ h1{
 
 }
 
+h2{
+    font-size: 35px;
+    color: #ffffff;
+    font-style: 'BebasNeueRegular', 'Arial Narrow';
+}
+
 p{
     color: #ffffff;
     margin: 5px;
 }
 
 #competition-form{
-    color: #ffffff;
-    left: 300px;
+    font-size: 15px;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 6px #555555;
+    margin-top: 25px;
+    
+}
+
+.comp_enter{
+    font-size: 15px;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 6px #555555;
     margin-top: 25px;
 
 }

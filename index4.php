@@ -32,10 +32,11 @@
     <body id="page">
 <div id="fb-root"></div>
 <script>
+    
   window.fbAsyncInit = function() {
   FB.init({
     appId      : '253770041416929', // App ID
-    channelUrl : '//westgrove.azurewebsites.net/web/CSS3FullscreenSlideshow/channel.html', // Channel File
+    channelUrl : '//westgrovefbwebapp.azurewebsites.net/channel.html', // Channel File
     status     : true, // check login status
     cookie     : true, // enable cookies to allow the server to access the session
     xfbml      : true  // parse XFBML
@@ -99,9 +100,6 @@
     });
   }
 </script>
-<!--Below we include the Login Button social plugin. This button uses the JavaScript SDK to-->
-<!--present a graphical Login button that triggers the FB.login() function when clicked.-->
-<fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
                 
 
         <div class="container">
@@ -114,33 +112,48 @@
 					<a href="index.php">home</a>
 					<a href="index2.php"> hotel</a>
 					<a href="index3.php">weddings</a>
+                                        <a href="contactform.php">contact us</a>
 					<a class="current-demo" href="index4.php">facebook competition</a>
 				</p>
                 <div id="top_right">
                     <a href="https://twitter.com/westgrovehotel" class="twitter-follow-button" data-show-count="false">Follow @westgrovehotel </a>
 
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+                <script align="right">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
                  if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
                 </script>
+
+                    <div class="fb-like" data-href="https://www.facebook.com/WestgroveHotel" data-send="true" data-width="450" data-show-faces="false"></div>
 
                 </div>
             </header>
         </div>
 
-<h1>Welcome To Our Facebook Competition:</h1>
 
-<p>To be in with the chance of winning 2 nights Bed and Breakfast and an evening meal for 2 please tell us which town the Westgrove Hotel is located in:</p>
 
-<div id="competition-form">
+
+
+
     <!--style="display:none"-->
 
+<h2>Welcome To Our Facebook Competition</h2>
+<p>Please login via Facebook to enter!</p>
+<!--Below we include the Login Button social plugin. This button uses the JavaScript SDK to-->
+<!--present a graphical Login button that triggers the FB.login() function when clicked.-->
+<fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
+
+<br />
+
+<p class="comp_enter">To be in with the chance of winning 2 nights Bed and Breakfast and an evening meal for 2 please tell us which town the Westgrove Hotel is located in:</p>
+
+<div id="competition-form" width="450px">
+    
 <form method="post" action="enter.php">
 <input type="radio" name="town" value="naas">Naas<br>
 <input type="radio" name="town" value="newbridge">Newbridge<br>
 <input type="radio" name="town" value="clane">Clane<br>
 <input type="radio" name="town" value="sallins">Sallins
 
-<br> <input type="submit">
+<br /> <br /> <input type="submit" align="center">
 
 </form>
 
