@@ -2,7 +2,7 @@
 if(isset($_POST['email'])) {
 
     
-    $email_to = "dalynewspaper@gmail.com";
+    $email_to = "westgrovehotelinfo@gmail.com";
     $email_subject = "Facebook Query";
 
 
