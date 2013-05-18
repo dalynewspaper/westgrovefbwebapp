@@ -27,7 +27,7 @@
 
 
                 //connect to DB
-                mysql_connect("localhost", "root", "root");
+                mysql_connect("ec2-50-19-213-178.compute-1.amazonaws.com:3360", "dalynewspaper", "Pa55w0rdPa55w0rd");
                 mysql_select_db("westrgrovedatabase");
 
                 // Check connection
