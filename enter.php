@@ -28,7 +28,7 @@
 
                 //connect to DB
                 mysql_connect("ec2-50-19-213-178.compute-1.amazonaws.com:3360", "dalynewspaper", "Pa55w0rdPa55w0rd");
-                mysql_select_db("westrgrovedatabase");
+                mysql_select_db("westgrovedatabase");
 
                 // Check connection
                 if (mysql_errno()){
