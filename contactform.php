@@ -21,7 +21,7 @@
             <div class="container">
             <header>
                 <h1> <span> Contact Us</span></h1>
-                <h2>Please feel free to contact is at any time. If you would like to call us our number is 045 989900 </h2>
+                <h2>Please feel free to contact is at any time. If you would like to call us our number is <p class="beef"> 045 989900 </p> </h2>
                
 				<p class="codrops-demos">
 					<a href="index.php">home</a>

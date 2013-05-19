@@ -1,5 +1,5 @@
 body{
-    background-image: url(../images/contact.png);
+    background-image: url(../images/contact.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -58,6 +58,10 @@ color: #FFFFFF;
 text-shadow: 1px 1px 6px #555555;
 }
 
+.beef{
+    font-size: 25px;
+}
+
 #top_right  {
     position: fixed;
     top:0px;
@@ -65,5 +69,6 @@ text-shadow: 1px 1px 6px #555555;
     margin: 10px;
 
 }
+
 
 

@@ -4,8 +4,8 @@
 
         //Make our Facebook Object
         $facebook = new Facebook(array(
-          'appId'  => '253770041416929',
-          'secret' => 'e0cada66b97cf293d02cfb750cdd3467',
+          'appId'  => '458804664161401',
+          'secret' => '234270e4188eb78fa86e32c06e2bfccc',
         ));
 
 
@@ -27,8 +27,8 @@
 
 
                 //connect to DB
-                mysql_connect("ec2-50-19-213-178.compute-1.amazonaws.com:3360", "dalynewspaper", "Pa55w0rdPa55w0rd");
-                mysql_select_db("westgrovedatabase");
+                mysql_connect("localhost", "root", "root");
+                mysql_select_db("westrgrovedatabase");
 
                 // Check connection
                 if (mysql_errno()){
@@ -49,7 +49,7 @@
                 if(count($user_check) > 1){
                         //user already in db, tell them where to go
 
-                        echo "you have already entered";
+                        echo "you have already entered"; 
                         exit();
                         }
                
@@ -101,7 +101,7 @@
             ?>
          <div class="container">
     <div class="success">
-         <h1><a href='<?php echo $facebook->getLoginUrl(); ?>'>Please log to enter, click here</a></h1>
+         <h1><a href='<?php echo $facebook->getLoginUrl(); ?>'>Please login to enter, click here!</a></h1>
        
         <p class="codrops-demos">
         	<a href="index.php">home</a>
